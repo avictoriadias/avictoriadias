@@ -2,12 +2,6 @@
 
 
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando CSS e JavaScript
-- 📫 Contato: victoriacdias@outlook.com
-- 😄 Pronomes: ela/dela
-- ⚡ Currículo: ...
-
 <div align="center">
   <a href="https://github.com/avictoriadias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avictoriadias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
